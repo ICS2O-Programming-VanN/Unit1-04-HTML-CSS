@@ -1,0 +1,17 @@
+body {
+  background-color: salmon;
+}
+
+h1 {
+  background-color: rgb(159, 226, 191);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: rgb(64, 224, 208);
+}
+
+table {
+  background-color: rgb(204, 204, 255)
+}
