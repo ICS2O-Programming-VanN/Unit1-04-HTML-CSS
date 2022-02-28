@@ -6,14 +6,19 @@ h1 {
   background-color: rgb(159, 226, 191);
   padding: 40px;
   text-align: center;
-  color: #FFA233
+  color: #FFA233;
 }
 
 p {
   background-color: rgb(64, 224, 208);
-  color: #DE3163
+  color: #DE3163;
 }
 
 table {
-  background-color: rgb(204, 204, 255)
+  background-color: rgb(204, 204, 255);
+  color: #FFA233;
+}
+
+ul{
+  color: #C1FF33;
 }
